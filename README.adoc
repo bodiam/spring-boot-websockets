@@ -1,0 +1,4 @@
+= Spring Boot Websockets
+
+A simple demo of Spring websockets using a client server model as well as scheduled tasks.
+
